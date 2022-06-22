@@ -13,7 +13,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flywayVersion>6.4.3</flywayVersion>
-        <mysqlVersion>8.0.20</mysqlVersion>
+        <mysqlVersion>8.0.28</mysqlVersion>
     </properties>
     
     <dependencies>
